@@ -1,8 +1,8 @@
 Desgin Pattren in js
 
-1- Structure 
-2- Creation
-3- Behiover
+1- creational
+2- structural  
+3- behavioral 
 
 
 
