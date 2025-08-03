@@ -1,5 +1,4 @@
-Desgin Pattren in js
-
+Desgin Pattren
 1- creational
 2- structural  
 3- behavioral 
